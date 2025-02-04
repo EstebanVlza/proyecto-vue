@@ -6,6 +6,8 @@
     <ul>
       <li><Router-Link to="/contador">Contador</Router-Link></li>
       <li><Router-Link to="/lista-de-tareas">Lista de Tareas</Router-Link></li>
+      <li><Router-Link to="/registrar">Registrar</Router-Link></li>
+
     </ul>
   </div>
 </template>
